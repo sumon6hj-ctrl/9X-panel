@@ -11,4 +11,5 @@ pytz
 aiohttp
 cfonts
 flask
+flask-socketio
 gunicorn
